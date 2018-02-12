@@ -1,8 +1,8 @@
 ## Basic Configuration
 
-baseurl = "https://michey.github.io/"
-builddrafts = true
-canonifyurls = false
+baseurl = "https://michey.github.io"
+builddrafts = false
+canonifyurls = true
 languageCode = "en-US"
 
 contentdir = "content"
@@ -58,8 +58,8 @@ hightlightjs = true
 #    weight = 100
 #    identifier = "blog"
 #    url = "/blog/"
-#[[menu.main]]
-#    name = "about"
-#    identifier = "about"
-#    weight = 200
-#    url = "/about/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
