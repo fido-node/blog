@@ -22,9 +22,9 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Alex Mihailov"
-intro = "Full stack developer"
+intro = "Full stack developer | FP-curious | Lambda affected"
 description = "Now @VisualThreat. Previously @LiveTex.  </br> \
- Work with: Java, Akka, Angular, D3.js"
+ Work with: Scala, Java, Akka, Angular, D3.js"
 authorimage = "ph.jpg"
 dateformat = "Jan 2, 2006"
 
