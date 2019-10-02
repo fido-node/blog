@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Alex Mihailov"
 intro = "Full stack developer | FP-curious | Lambda affected"
-description = "Now @VisualThreat. Previously @LiveTex.  </br> Work with: Scala, Java, Akka, Angular, D3.js"
+description = "Now @SamsungNEXT. Previously @VisualThreat. </br> Work with: Scala, React"
 resume = "resume.pdf"
 authorimage = "ph.jpg"
 dateformat = "Jan 2, 2006"
@@ -43,7 +43,7 @@ twitter = "fido_node"
 #google = "<username>"
 #stackoverflow = "<username>"
 telegram = "fido_node"
-email = "mixeyy@gmail.com"
+email = "aleksandr.mihailov@pm.me"
 whatsapp = "79218951179"
 
 ## Extras
