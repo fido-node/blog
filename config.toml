@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Alex Mihailov"
 intro = "Full stack developer | FP-curious | Lambda affected"
-description = "Now @SamsungNEXT. Previously @VisualThreat. </br> Work with: Scala, React"
+description = "Now @Whisk. Previously @VisualThreat. </br> Work with: Scala, React"
 resume = "resume.pdf"
 authorimage = "ph.jpg"
 dateformat = "Jan 2, 2006"
