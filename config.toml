@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://michey.github.io"
+baseurl = "https://fidonode.me"
 builddrafts = false
 canonifyurls = true
 languageCode = "en-US"
@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Alex Mihailov"
 intro = "Full stack developer | FP-curious | Lambda affected"
-description = "Now @Whisk. Previously @VisualThreat. </br> Work with: Scala, React"
+description = "Now @Whisk. Previously @VisualThreat. </br> Work with: Scala, React, Mongo, Mysql, Thrift, Protobuf"
 resume = "resume.pdf"
 authorimage = "ph.jpg"
 dateformat = "Jan 2, 2006"
@@ -47,7 +47,7 @@ email = "aleksandr.mihailov@pm.me"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Aleksandr Mihailov. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2020. Aleksandr Mihailov. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = false
 hightlightjs = true
 
