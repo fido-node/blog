@@ -44,6 +44,7 @@ twitter = "fido_node"
 #stackoverflow = "<username>"
 telegram = "fido_node"
 email = "aleksandr.mihailov@pm.me"
+twitch = "fido_node"
 
 ## Extras
 [params.extra]
