@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Alex Mihailov"
-intro = "Full stack developer | FP-curious | Lambda affected"
-description = "Now @Whisk. Previously @VisualThreat. </br> Work with: Scala, React, Mongo, Mysql, Thrift, Protobuf"
+intro = "Full stack developer | FP-curious </br> Lambda affected | Wanna be rustacean 🦀"
+description = "Now <a href='https://www.samsungnext.com/' target='_blank'>@Samsung NEXT</a> <a href='https://whisk.com/' target='_blank'>(Whisk product team)</a>. </br> Previously <a href='https://www.visualthreat.com/' target='_blank'>@VisualThreat</a>. </br> Work with: Scala, Mongo, MySQL, Thrift, gRPC"
 resume = "resume.pdf"
 authorimage = "ph.jpg"
 dateformat = "Jan 2, 2006"
@@ -63,3 +63,6 @@ hightlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
+
+[markup.goldmark.renderer]
+unsafe= true
