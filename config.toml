@@ -22,9 +22,9 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Alex Mihailov"
-intro = "Full stack developer | FP-curious </br> Lambda affected | Wanna be rustacean 🦀"
-description = "Now <a href='https://www.samsungnext.com/' target='_blank'>@Samsung NEXT</a> <a href='https://whisk.com/' target='_blank'>(Whisk product team)</a>. </br> Previously <a href='https://www.visualthreat.com/' target='_blank'>@VisualThreat</a>. </br> Work with: Scala, Mongo, MySQL, Thrift, gRPC"
-resume = "resume.pdf"
+intro = "Full stack engineer </br> FP-curious | λ-affected </br> Wanna be rustacean 🦀 and/or secops guy 🔒"
+description = "Now <a href='https://www.samsungnext.com/' target='_blank'>@Samsung NEXT</a> <a href='https://whisk.com/' target='_blank'>(Whisk product team)</a>. </br> Previously <a href='https://www.visualthreat.com/' target='_blank'>@VisualThreat</a>. </br> Work with: Scala, TypeScript, Java, MongoDB, MySQL, Thrift, gRPC"
+# resume = "resume.pdf"
 authorimage = "ph.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -37,7 +37,7 @@ keywords = ""
 [params.social]
 github = "michey"
 instagram = "aleksandr.mihailov"
-#linkedin = "<username>"
+linkedin = "alex-mihailov-870448187"
 twitter = "fido_node"
 #facebook = "<username>"
 #google = "<username>"
